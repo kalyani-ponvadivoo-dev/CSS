@@ -1,0 +1,16 @@
+h1{
+    color: white;
+    background-color: black;
+    padding-left: 50px;
+    border: solid white 1px
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-left: solid purple 10px;
+    border-top: solid purple 10px;
+    border-right: dotted yellow 10px;
+     border-bottom: solid red 10px;
+}
